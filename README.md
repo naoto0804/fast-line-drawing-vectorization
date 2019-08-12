@@ -7,12 +7,12 @@ Here is the example of our results.
 
 <p align='center'>
   <img src='sample_results/input_26481.png' width="400px">
-  <img src='sample_results/ours_26481_0_95.pdf' width="400px">
+  <img src='sample_results/ours_26481_0_95.png' width="400px">
 </p>
 
 <p align='center'>
   <img src='sample_results/input_4657882177994752.png' width="400px">
-  <img src='sample_results/ours_4657882177994752_0_97.pdf' width="400px">
+  <img src='sample_results/ours_4657882177994752_0_97.png' width="400px">
 </p>
 
 
