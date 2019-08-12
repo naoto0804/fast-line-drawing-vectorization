@@ -1,0 +1,9 @@
+.idea
+*.jpg
+*.txt
+*.png
+*.pdf
+maskrcnn_benchmark.egg-info
+build
+dist
+maskrcnn_benchmark/_C.cpython-36m-x86_64-linux-gnu.so
