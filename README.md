@@ -39,7 +39,10 @@ python setup.py build develop
 
 ## Download
 ### Model
-For testing our model, please download pre-trained weights from [here](https://drive.google.com/open?id=1YOQKuL323r3utgyukOZvl6th98yiGOXr)
+For testing our model, please download pre-trained weights by
+```
+bash download_trained_models.sh
+```
 
 ### Data
 For testing our model, please do the following;
