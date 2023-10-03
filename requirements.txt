@@ -12,7 +12,7 @@ matplotlib==3.1.1
 ninja==1.9.0.post1
 numpy==1.22.0
 opencv-python==4.2.0.32
-Pillow==9.0.1
+Pillow==10.0.1
 pycparser==2.19
 pyparsing==2.4.2
 python-dateutil==2.8.0
