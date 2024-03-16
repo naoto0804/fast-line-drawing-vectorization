@@ -39,7 +39,7 @@ python setup.py build develop
 
 ## Download
 ### Model
-For testing our model, please download pre-trained weights by
+For testing our model, please install [gdown](https://github.com/wkentaro/gdown) and then download pre-trained weights by
 ```
 bash download_trained_models.sh
 ```
